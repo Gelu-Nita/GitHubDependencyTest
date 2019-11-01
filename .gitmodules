@@ -1,0 +1,3 @@
+[submodule "topdep"]
+	path = topdep
+	url = https://github.com/vit1-irk/top-dependency-test
