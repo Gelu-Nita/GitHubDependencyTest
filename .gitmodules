@@ -1,3 +1,7 @@
 [submodule "topdep"]
 	path = topdep
 	url = https://github.com/vit1-irk/top-dependency-test
+
+[submodule "fromSergey"]
+	path = fromSergey
+	url = https://github.com/Sergey-Anfinogentov/clean_lib
