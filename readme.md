@@ -54,6 +54,14 @@ You might also want to commit the changes if upstream dependency repo was update
  
 
 ```
+git add topdep 
 git commit -a -m "new commits in dependency"
 git push
 ```
+
+
+
+The command "git add topdep" is required when new files were added inside the dependency. It is not always necessary, but one can see in command when it is needed by requesting 
+
+`git status`
+
